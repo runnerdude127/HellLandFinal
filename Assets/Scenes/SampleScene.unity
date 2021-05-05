@@ -2487,7 +2487,7 @@ GameObject:
   - component: {fileID: 48355671}
   - component: {fileID: 48355670}
   - component: {fileID: 48355669}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (52)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3152,7 +3152,7 @@ GameObject:
   - component: {fileID: 73074126}
   - component: {fileID: 73074125}
   - component: {fileID: 73074124}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (127)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3437,7 +3437,7 @@ GameObject:
   - component: {fileID: 77779478}
   - component: {fileID: 77779477}
   - component: {fileID: 77779476}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (61)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4197,7 +4197,7 @@ GameObject:
   - component: {fileID: 101689460}
   - component: {fileID: 101689459}
   - component: {fileID: 101689458}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (112)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4387,7 +4387,7 @@ GameObject:
   - component: {fileID: 104394375}
   - component: {fileID: 104394374}
   - component: {fileID: 104394373}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (122)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4863,7 +4863,7 @@ GameObject:
   - component: {fileID: 114197924}
   - component: {fileID: 114197923}
   - component: {fileID: 114197922}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (49)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5528,7 +5528,7 @@ GameObject:
   - component: {fileID: 124559131}
   - component: {fileID: 124559130}
   - component: {fileID: 124559129}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (58)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5813,7 +5813,7 @@ GameObject:
   - component: {fileID: 132750965}
   - component: {fileID: 132750964}
   - component: {fileID: 132750963}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (53)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6329,7 +6329,7 @@ GameObject:
   - component: {fileID: 141421737}
   - component: {fileID: 141421736}
   - component: {fileID: 141421735}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (91)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7489,7 +7489,7 @@ GameObject:
   - component: {fileID: 167651574}
   - component: {fileID: 167651573}
   - component: {fileID: 167651575}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (47)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7774,7 +7774,7 @@ GameObject:
   - component: {fileID: 169516737}
   - component: {fileID: 169516736}
   - component: {fileID: 169516735}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (71)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8531,7 +8531,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 185520119}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8633,6 +8633,14 @@ Transform:
   - {fileID: 298948381}
   - {fileID: 1502014315}
   - {fileID: 2002106903}
+  - {fileID: 1725715449}
+  - {fileID: 1333010067}
+  - {fileID: 908852127}
+  - {fileID: 466691939}
+  - {fileID: 1488630372}
+  - {fileID: 1410519271}
+  - {fileID: 1983069845}
+  - {fileID: 645415707}
   m_Father: {fileID: 1146358063}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -10060,7 +10068,7 @@ GameObject:
   - component: {fileID: 235642536}
   - component: {fileID: 235642535}
   - component: {fileID: 235642534}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (98)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12278,7 +12286,7 @@ GameObject:
   - component: {fileID: 286287092}
   - component: {fileID: 286287091}
   - component: {fileID: 286287090}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (84)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12563,7 +12571,7 @@ GameObject:
   - component: {fileID: 298948384}
   - component: {fileID: 298948383}
   - component: {fileID: 298948382}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (128)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12658,7 +12666,7 @@ GameObject:
   - component: {fileID: 302922784}
   - component: {fileID: 302922783}
   - component: {fileID: 302922782}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (73)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13134,7 +13142,7 @@ GameObject:
   - component: {fileID: 311478551}
   - component: {fileID: 311478550}
   - component: {fileID: 311478549}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (64)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14128,7 +14136,7 @@ GameObject:
   - component: {fileID: 329037431}
   - component: {fileID: 329037430}
   - component: {fileID: 329037429}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (82)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14223,7 +14231,7 @@ GameObject:
   - component: {fileID: 330297973}
   - component: {fileID: 330297972}
   - component: {fileID: 330297971}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (68)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14755,7 +14763,7 @@ GameObject:
   - component: {fileID: 337016316}
   - component: {fileID: 337016315}
   - component: {fileID: 337016314}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (119)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15406,7 +15414,7 @@ GameObject:
   - component: {fileID: 349142478}
   - component: {fileID: 349142477}
   - component: {fileID: 349142476}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (96)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15596,7 +15604,7 @@ GameObject:
   - component: {fileID: 350927530}
   - component: {fileID: 350927529}
   - component: {fileID: 350927528}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (102)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16261,7 +16269,7 @@ GameObject:
   - component: {fileID: 357694164}
   - component: {fileID: 357694163}
   - component: {fileID: 357694162}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (62)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17401,7 +17409,7 @@ GameObject:
   - component: {fileID: 373230228}
   - component: {fileID: 373230227}
   - component: {fileID: 373230226}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (57)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18161,7 +18169,7 @@ GameObject:
   - component: {fileID: 392752717}
   - component: {fileID: 392752716}
   - component: {fileID: 392752715}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (108)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19586,7 +19594,7 @@ GameObject:
   - component: {fileID: 419847833}
   - component: {fileID: 419847832}
   - component: {fileID: 419847831}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (94)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19776,7 +19784,7 @@ GameObject:
   - component: {fileID: 422996016}
   - component: {fileID: 422996015}
   - component: {fileID: 422996014}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (116)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21583,6 +21591,87 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 2.000001, y: 2.0348146, z: 23.590057}
   m_Center: {x: 0.0000010728843, y: -0.017414618, z: 10.795027}
+--- !u!1 &466691938
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 466691939}
+  - component: {fileID: 466691941}
+  - component: {fileID: 466691940}
+  m_Layer: 0
+  m_Name: BalconyCorner (3)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &466691939
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 466691938}
+  m_LocalRotation: {x: -0.0000020862688, y: 0.7071068, z: 0.7071068, w: 0.0000020862688}
+  m_LocalPosition: {x: 169, y: -13, z: 119}
+  m_LocalScale: {x: 0.42898998, y: 0.40039003, z: 0.7652}
+  m_Children: []
+  m_Father: {fileID: 185520119}
+  m_RootOrder: 87
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!23 &466691940
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 466691938}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: b47b0c9089bf56b4889fffcda0169951, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &466691941
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 466691938}
+  m_Mesh: {fileID: -1279523388817030795, guid: 08ec4002ec9efd449b9d4de548b02b72, type: 3}
 --- !u!1 &470293008
 GameObject:
   m_ObjectHideFlags: 0
@@ -22626,7 +22715,7 @@ GameObject:
   - component: {fileID: 482474689}
   - component: {fileID: 482474688}
   - component: {fileID: 482474687}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (100)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25223,7 +25312,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 08ec4002ec9efd449b9d4de548b02b72, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2382587636632105559, guid: 08ec4002ec9efd449b9d4de548b02b72, type: 3}
       propertyPath: m_LocalScale.x
@@ -25541,7 +25630,7 @@ GameObject:
   - component: {fileID: 575399479}
   - component: {fileID: 575399478}
   - component: {fileID: 575399477}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (110)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26184,7 +26273,7 @@ GameObject:
   - component: {fileID: 579928130}
   - component: {fileID: 579928129}
   - component: {fileID: 579928128}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (126)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26684,7 +26773,7 @@ GameObject:
   - component: {fileID: 587304000}
   - component: {fileID: 587303999}
   - component: {fileID: 587303998}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (106)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26969,7 +27058,7 @@ GameObject:
   - component: {fileID: 589245011}
   - component: {fileID: 589245010}
   - component: {fileID: 589245009}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (70)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27064,7 +27153,7 @@ GameObject:
   - component: {fileID: 590449901}
   - component: {fileID: 590449900}
   - component: {fileID: 590449899}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (66)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27824,7 +27913,7 @@ GameObject:
   - component: {fileID: 612031379}
   - component: {fileID: 612031378}
   - component: {fileID: 612031377}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (54)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29384,6 +29473,87 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 644377511}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &645415706
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 645415707}
+  - component: {fileID: 645415709}
+  - component: {fileID: 645415708}
+  m_Layer: 0
+  m_Name: BalconyCorner (7)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &645415707
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 645415706}
+  m_LocalRotation: {x: -0.0000020862688, y: 0.7071068, z: 0.7071068, w: 0.0000020862688}
+  m_LocalPosition: {x: -7.4, y: -13, z: 280.4}
+  m_LocalScale: {x: 0.42898998, y: 0.40039003, z: 0.7652}
+  m_Children: []
+  m_Father: {fileID: 185520119}
+  m_RootOrder: 91
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!23 &645415708
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 645415706}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: b47b0c9089bf56b4889fffcda0169951, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &645415709
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 645415706}
+  m_Mesh: {fileID: -1279523388817030795, guid: 08ec4002ec9efd449b9d4de548b02b72, type: 3}
 --- !u!1 &647418219
 GameObject:
   m_ObjectHideFlags: 0
@@ -30471,7 +30641,7 @@ GameObject:
   - component: {fileID: 673842425}
   - component: {fileID: 673842424}
   - component: {fileID: 673842423}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (86)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -31977,7 +32147,7 @@ GameObject:
   - component: {fileID: 702302029}
   - component: {fileID: 702302028}
   - component: {fileID: 702302027}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (95)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -32167,7 +32337,7 @@ GameObject:
   - component: {fileID: 703032719}
   - component: {fileID: 703032718}
   - component: {fileID: 703032717}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (69)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33849,7 +34019,7 @@ GameObject:
   - component: {fileID: 752257505}
   - component: {fileID: 752257504}
   - component: {fileID: 752257503}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (92)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -33944,7 +34114,7 @@ GameObject:
   - component: {fileID: 753006665}
   - component: {fileID: 753006664}
   - component: {fileID: 753006663}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (76)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -34324,7 +34494,7 @@ GameObject:
   - component: {fileID: 759353664}
   - component: {fileID: 759353663}
   - component: {fileID: 759353662}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (75)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -35640,7 +35810,7 @@ GameObject:
   - component: {fileID: 782534477}
   - component: {fileID: 782534476}
   - component: {fileID: 782534475}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (77)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -38015,7 +38185,7 @@ GameObject:
   - component: {fileID: 865509910}
   - component: {fileID: 865509909}
   - component: {fileID: 865509908}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (93)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -40118,6 +40288,87 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 907993756}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &908852126
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 908852127}
+  - component: {fileID: 908852129}
+  - component: {fileID: 908852128}
+  m_Layer: 0
+  m_Name: BalconyCorner (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &908852127
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 908852126}
+  m_LocalRotation: {x: -0.0000020862688, y: 0.7071068, z: 0.7071068, w: 0.0000020862688}
+  m_LocalPosition: {x: 71, y: -13, z: 184.6}
+  m_LocalScale: {x: 0.42898998, y: 0.40039003, z: 0.7652}
+  m_Children: []
+  m_Father: {fileID: 185520119}
+  m_RootOrder: 86
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!23 &908852128
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 908852126}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: b47b0c9089bf56b4889fffcda0169951, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &908852129
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 908852126}
+  m_Mesh: {fileID: -1279523388817030795, guid: 08ec4002ec9efd449b9d4de548b02b72, type: 3}
 --- !u!1 &909186454
 GameObject:
   m_ObjectHideFlags: 0
@@ -40549,7 +40800,7 @@ GameObject:
   - component: {fileID: 917496587}
   - component: {fileID: 917496586}
   - component: {fileID: 917496585}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (72)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -41689,7 +41940,7 @@ GameObject:
   - component: {fileID: 946084646}
   - component: {fileID: 946084645}
   - component: {fileID: 946084644}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (118)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42661,7 +42912,7 @@ GameObject:
   - component: {fileID: 974726189}
   - component: {fileID: 974726188}
   - component: {fileID: 974726187}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (74)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -42946,7 +43197,7 @@ GameObject:
   - component: {fileID: 976578114}
   - component: {fileID: 976578113}
   - component: {fileID: 976578112}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (99)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -46243,7 +46494,7 @@ GameObject:
   - component: {fileID: 1060704213}
   - component: {fileID: 1060704212}
   - component: {fileID: 1060704211}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (111)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -46338,7 +46589,7 @@ GameObject:
   - component: {fileID: 1061922840}
   - component: {fileID: 1061922839}
   - component: {fileID: 1061922838}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (97)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -47749,7 +48000,7 @@ GameObject:
   - component: {fileID: 1094661575}
   - component: {fileID: 1094661574}
   - component: {fileID: 1094661573}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (120)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -47844,7 +48095,7 @@ GameObject:
   - component: {fileID: 1097144223}
   - component: {fileID: 1097144222}
   - component: {fileID: 1097144221}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (81)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -48034,7 +48285,7 @@ GameObject:
   - component: {fileID: 1098218955}
   - component: {fileID: 1098218954}
   - component: {fileID: 1098218953}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (67)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -49445,7 +49696,7 @@ GameObject:
   - component: {fileID: 1138692352}
   - component: {fileID: 1138692351}
   - component: {fileID: 1138692350}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (103)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -49822,7 +50073,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1146358063}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: SecondFloor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -51367,7 +51618,7 @@ GameObject:
   - component: {fileID: 1168407075}
   - component: {fileID: 1168407074}
   - component: {fileID: 1168407073}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (48)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -51937,7 +52188,7 @@ GameObject:
   - component: {fileID: 1189031170}
   - component: {fileID: 1189031169}
   - component: {fileID: 1189031168}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (83)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -52398,7 +52649,7 @@ GameObject:
   - component: {fileID: 1197449741}
   - component: {fileID: 1197449740}
   - component: {fileID: 1197449739}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (78)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -52778,7 +53029,7 @@ GameObject:
   - component: {fileID: 1203446049}
   - component: {fileID: 1203446048}
   - component: {fileID: 1203446047}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (113)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -55614,7 +55865,7 @@ GameObject:
   - component: {fileID: 1257633609}
   - component: {fileID: 1257633608}
   - component: {fileID: 1257633607}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (101)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -57686,7 +57937,7 @@ GameObject:
   - component: {fileID: 1314306224}
   - component: {fileID: 1314306223}
   - component: {fileID: 1314306222}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (115)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -58325,6 +58576,87 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 2, y: 2.3250906, z: 2.446598}
   m_Center: {x: 0.00000011920929, y: 0, z: -0.22329879}
+--- !u!1 &1333010066
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1333010067}
+  - component: {fileID: 1333010069}
+  - component: {fileID: 1333010068}
+  m_Layer: 0
+  m_Name: BalconyCorner (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1333010067
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1333010066}
+  m_LocalRotation: {x: -0.0000020862688, y: 0.7071068, z: 0.7071068, w: 0.0000020862688}
+  m_LocalPosition: {x: 71, y: -13, z: 119}
+  m_LocalScale: {x: 0.42898998, y: 0.40039003, z: 0.7652}
+  m_Children: []
+  m_Father: {fileID: 185520119}
+  m_RootOrder: 85
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!23 &1333010068
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1333010066}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: b47b0c9089bf56b4889fffcda0169951, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &1333010069
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1333010066}
+  m_Mesh: {fileID: -1279523388817030795, guid: 08ec4002ec9efd449b9d4de548b02b72, type: 3}
 --- !u!1 &1344045479
 GameObject:
   m_ObjectHideFlags: 0
@@ -58432,7 +58764,7 @@ GameObject:
   - component: {fileID: 1346081086}
   - component: {fileID: 1346081085}
   - component: {fileID: 1346081084}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (50)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -60306,6 +60638,87 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1408420094}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1410519270
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1410519271}
+  - component: {fileID: 1410519273}
+  - component: {fileID: 1410519272}
+  m_Layer: 0
+  m_Name: BalconyCorner (5)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1410519271
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1410519270}
+  m_LocalRotation: {x: -0.0000020862688, y: 0.7071068, z: 0.7071068, w: 0.0000020862688}
+  m_LocalPosition: {x: 247, y: -13, z: 280.4}
+  m_LocalScale: {x: 0.42898998, y: 0.40039003, z: 0.7652}
+  m_Children: []
+  m_Father: {fileID: 185520119}
+  m_RootOrder: 89
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!23 &1410519272
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1410519270}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: b47b0c9089bf56b4889fffcda0169951, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &1410519273
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1410519270}
+  m_Mesh: {fileID: -1279523388817030795, guid: 08ec4002ec9efd449b9d4de548b02b72, type: 3}
 --- !u!1 &1413269068
 GameObject:
   m_ObjectHideFlags: 0
@@ -61648,7 +62061,7 @@ GameObject:
   - component: {fileID: 1457581631}
   - component: {fileID: 1457581630}
   - component: {fileID: 1457581629}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (121)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -61743,7 +62156,7 @@ GameObject:
   - component: {fileID: 1460363683}
   - component: {fileID: 1460363682}
   - component: {fileID: 1460363681}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (125)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -62693,7 +63106,7 @@ GameObject:
   - component: {fileID: 1474585308}
   - component: {fileID: 1474585307}
   - component: {fileID: 1474585306}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (109)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -63251,6 +63664,87 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1484974537}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1488630371
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1488630372}
+  - component: {fileID: 1488630374}
+  - component: {fileID: 1488630373}
+  m_Layer: 0
+  m_Name: BalconyCorner (4)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1488630372
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1488630371}
+  m_LocalRotation: {x: -0.0000020862688, y: 0.7071068, z: 0.7071068, w: 0.0000020862688}
+  m_LocalPosition: {x: 247, y: -13, z: 24.4}
+  m_LocalScale: {x: 0.42898998, y: 0.40039003, z: 0.7652}
+  m_Children: []
+  m_Father: {fileID: 185520119}
+  m_RootOrder: 88
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!23 &1488630373
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1488630371}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: b47b0c9089bf56b4889fffcda0169951, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &1488630374
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1488630371}
+  m_Mesh: {fileID: -1279523388817030795, guid: 08ec4002ec9efd449b9d4de548b02b72, type: 3}
 --- !u!1 &1490200430
 GameObject:
   m_ObjectHideFlags: 0
@@ -63738,7 +64232,7 @@ GameObject:
   - component: {fileID: 1502014318}
   - component: {fileID: 1502014317}
   - component: {fileID: 1502014316}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (129)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -68303,7 +68797,7 @@ GameObject:
   - component: {fileID: 1611351971}
   - component: {fileID: 1611351970}
   - component: {fileID: 1611351969}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (104)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -69538,7 +70032,7 @@ GameObject:
   - component: {fileID: 1639415690}
   - component: {fileID: 1639415689}
   - component: {fileID: 1639415688}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (85)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -72486,7 +72980,7 @@ GameObject:
   - component: {fileID: 1705128526}
   - component: {fileID: 1705128525}
   - component: {fileID: 1705128524}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (51)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -72581,7 +73075,7 @@ GameObject:
   - component: {fileID: 1708138061}
   - component: {fileID: 1708138060}
   - component: {fileID: 1708138059}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (105)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -72866,7 +73360,7 @@ GameObject:
   - component: {fileID: 1712048161}
   - component: {fileID: 1712048160}
   - component: {fileID: 1712048159}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (107)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -73234,6 +73728,87 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1715594579}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1725715448
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1725715449}
+  - component: {fileID: 1725715451}
+  - component: {fileID: 1725715450}
+  m_Layer: 0
+  m_Name: BalconyCorner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1725715449
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1725715448}
+  m_LocalRotation: {x: -0.0000020862688, y: 0.7071068, z: 0.7071068, w: 0.0000020862688}
+  m_LocalPosition: {x: 169, y: -13, z: 184.6}
+  m_LocalScale: {x: 0.42898998, y: 0.40039003, z: 0.7652}
+  m_Children: []
+  m_Father: {fileID: 185520119}
+  m_RootOrder: 84
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!23 &1725715450
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1725715448}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: b47b0c9089bf56b4889fffcda0169951, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &1725715451
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1725715448}
+  m_Mesh: {fileID: -1279523388817030795, guid: 08ec4002ec9efd449b9d4de548b02b72, type: 3}
 --- !u!1 &1726071108
 GameObject:
   m_ObjectHideFlags: 0
@@ -75050,7 +75625,7 @@ GameObject:
   - component: {fileID: 1759507564}
   - component: {fileID: 1759507563}
   - component: {fileID: 1759507562}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (89)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -75905,7 +76480,7 @@ GameObject:
   - component: {fileID: 1779333842}
   - component: {fileID: 1779333841}
   - component: {fileID: 1779333840}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (124)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -77559,7 +78134,7 @@ GameObject:
   - component: {fileID: 1811122756}
   - component: {fileID: 1811122755}
   - component: {fileID: 1811122754}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (90)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -77939,7 +78514,7 @@ GameObject:
   - component: {fileID: 1821224832}
   - component: {fileID: 1821224831}
   - component: {fileID: 1821224830}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (117)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -79716,7 +80291,7 @@ GameObject:
   - component: {fileID: 1860491251}
   - component: {fileID: 1860491250}
   - component: {fileID: 1860491249}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (87)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -81571,7 +82146,7 @@ GameObject:
   - component: {fileID: 1913121917}
   - component: {fileID: 1913121916}
   - component: {fileID: 1913121915}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (59)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -83946,7 +84521,7 @@ GameObject:
   - component: {fileID: 1960167731}
   - component: {fileID: 1960167730}
   - component: {fileID: 1960167729}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (60)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -84599,6 +85174,87 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1982993030}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1983069844
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1983069845}
+  - component: {fileID: 1983069847}
+  - component: {fileID: 1983069846}
+  m_Layer: 0
+  m_Name: BalconyCorner (6)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1983069845
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1983069844}
+  m_LocalRotation: {x: -0.0000020862688, y: 0.7071068, z: 0.7071068, w: 0.0000020862688}
+  m_LocalPosition: {x: -7.4, y: -13, z: 24.4}
+  m_LocalScale: {x: 0.42898998, y: 0.40039003, z: 0.7652}
+  m_Children: []
+  m_Father: {fileID: 185520119}
+  m_RootOrder: 90
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!23 &1983069846
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1983069844}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: b47b0c9089bf56b4889fffcda0169951, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!33 &1983069847
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1983069844}
+  m_Mesh: {fileID: -1279523388817030795, guid: 08ec4002ec9efd449b9d4de548b02b72, type: 3}
 --- !u!1 &1984517469
 GameObject:
   m_ObjectHideFlags: 0
@@ -84801,7 +85457,7 @@ GameObject:
   - component: {fileID: 1986475070}
   - component: {fileID: 1986475069}
   - component: {fileID: 1986475068}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (63)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -85547,7 +86203,7 @@ GameObject:
   - component: {fileID: 2002106906}
   - component: {fileID: 2002106905}
   - component: {fileID: 2002106904}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (130)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -85737,7 +86393,7 @@ GameObject:
   - component: {fileID: 2004758727}
   - component: {fileID: 2004758726}
   - component: {fileID: 2004758725}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (88)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -87053,7 +87709,7 @@ GameObject:
   - component: {fileID: 2033793012}
   - component: {fileID: 2033793011}
   - component: {fileID: 2033793010}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (79)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -88450,7 +89106,7 @@ GameObject:
   - component: {fileID: 2052381806}
   - component: {fileID: 2052381805}
   - component: {fileID: 2052381804}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (55)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -89673,7 +90329,7 @@ GameObject:
   - component: {fileID: 2079740090}
   - component: {fileID: 2079740089}
   - component: {fileID: 2079740088}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (114)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -89958,7 +90614,7 @@ GameObject:
   - component: {fileID: 2094078264}
   - component: {fileID: 2094078263}
   - component: {fileID: 2094078262}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (65)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -90433,7 +91089,7 @@ GameObject:
   - component: {fileID: 2099446492}
   - component: {fileID: 2099446491}
   - component: {fileID: 2099446490}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (56)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -91098,7 +91754,7 @@ GameObject:
   - component: {fileID: 2112190780}
   - component: {fileID: 2112190779}
   - component: {fileID: 2112190778}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (80)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -91475,7 +92131,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2118678312}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Floors
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -92145,7 +92801,7 @@ GameObject:
   - component: {fileID: 2134746863}
   - component: {fileID: 2134746862}
   - component: {fileID: 2134746861}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Balcony (123)
   m_TagString: Untagged
   m_Icon: {fileID: 0}

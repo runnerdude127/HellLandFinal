@@ -23,13 +23,16 @@ ModelImporter:
     second: HellLanderArmature|Run
   - first:
       74: 3371814169032876273
-    second: HellLanderArmature|Shoot1
+    second: Attack1
   - first:
       74: 3827445400188031889
     second: HellLanderArmature|Shoot2
   - first:
       74: 840343618901231762
     second: HellLanderArmature|Walk
+  - first:
+      74: 3371814169032876273
+    second: HellLanderArmature|Shoot1
   externalObjects:
   - first:
       type: UnityEngine:Material
