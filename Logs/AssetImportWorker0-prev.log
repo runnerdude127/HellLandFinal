@@ -1,0 +1,774 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.928; Version 2004; 64bit' Language: 'en' Physical Memory: 16275 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/runne/AGGP140_Character
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50304
+Successfully changed project path to: C:/Users/runne/AGGP140_Character
+C:/Users/runne/AGGP140_Character
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 24.09 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/runne/AGGP140_Character/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon (TM) RX 580 (ID=0x67df)
+    Vendor:   
+    VRAM:     4075 MB
+    Driver:   27.20.12029.1000
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56552
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002561 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 24.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.952 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000784 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.849 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.21 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1124 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.3 MB.
+System memory in use after: 57.4 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1569.
+Total: 1.711200 ms (FindLiveObjects: 0.148300 ms CreateObjectMapping: 0.028100 ms MarkObjects: 1.468500 ms  DeleteObjects: 0.065400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1).zip
+  artifactKey: Guid(c72fd216ae71fea49a64a8a927cb45c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1).zip using Guid(c72fd216ae71fea49a64a8a927cb45c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c31b58cda263d37ed716b0dd713d663b') in 0.037085 seconds
+  Import took 0.039497 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000713 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.783 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1132 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 59.0 MB.
+System memory in use after: 58.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1573.
+Total: 1.859200 ms (FindLiveObjects: 0.140300 ms CreateObjectMapping: 0.028000 ms MarkObjects: 1.392300 ms  DeleteObjects: 0.297700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.930845 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main
+  artifactKey: Guid(eb1b9433f1141ed4fb0830bdcc999534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main using Guid(eb1b9433f1141ed4fb0830bdcc999534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f66da5d411babb2c7604142eaef72d4') in 0.008413 seconds
+  Import took 0.010571 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.004258 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main
+  artifactKey: Guid(eb1b9433f1141ed4fb0830bdcc999534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main using Guid(eb1b9433f1141ed4fb0830bdcc999534) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f66da5d411babb2c7604142eaef72d4') in 0.002309 seconds
+  Import took 0.003882 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.265334 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/UserSettings
+  artifactKey: Guid(47f65050342d9374381c08ffd1d4b526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/UserSettings using Guid(47f65050342d9374381c08ffd1d4b526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da2cb79f2c43d6558a5624d3c02bd82c') in 0.007177 seconds
+  Import took 0.009211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000835 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/UserSettings
+  artifactKey: Guid(47f65050342d9374381c08ffd1d4b526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/UserSettings using Guid(47f65050342d9374381c08ffd1d4b526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da2cb79f2c43d6558a5624d3c02bd82c') in 0.002470 seconds
+  Import took 0.004753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.972816 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/ProjectSettings/Packages
+  artifactKey: Guid(2cf07c0b21169f74db833b478cec9625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/ProjectSettings/Packages using Guid(2cf07c0b21169f74db833b478cec9625) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66fdf1d65b58f64a516d5ec74539014f') in 0.008177 seconds
+  Import took 0.010207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.607685 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/ProjectSettings/Packages/com.unity.probuilder
+  artifactKey: Guid(44dc915fe17214442ad6a44adb997673) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/ProjectSettings/Packages/com.unity.probuilder using Guid(44dc915fe17214442ad6a44adb997673) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '236fb56f81ff1547a72767ae5e013974') in 0.007153 seconds
+  Import took 0.009156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000843 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/ProjectSettings/Packages/com.unity.probuilder
+  artifactKey: Guid(44dc915fe17214442ad6a44adb997673) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/ProjectSettings/Packages/com.unity.probuilder using Guid(44dc915fe17214442ad6a44adb997673) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '236fb56f81ff1547a72767ae5e013974') in 0.002520 seconds
+  Import took 0.004438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.773261 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/ProjectSettings/Packages/com.unity.probuilder/Settings.json
+  artifactKey: Guid(2ba6c847275c3ed409b85aa43351b0c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/ProjectSettings/Packages/com.unity.probuilder/Settings.json using Guid(2ba6c847275c3ed409b85aa43351b0c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ff1ea31abae050076c9122caab16762') in 0.019869 seconds
+  Import took 0.021852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018773 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/ProjectSettings/Packages/com.unity.probuilder/Settings.json
+  artifactKey: Guid(2ba6c847275c3ed409b85aa43351b0c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/ProjectSettings/Packages/com.unity.probuilder/Settings.json using Guid(2ba6c847275c3ed409b85aa43351b0c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ff1ea31abae050076c9122caab16762') in 0.002834 seconds
+  Import took 0.004782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.658873 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Packages/packages-lock.json
+  artifactKey: Guid(9265e86d771b5534b929b55ce51f4c8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Packages/packages-lock.json using Guid(9265e86d771b5534b929b55ce51f4c8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1184b0ea3515fb49f18f4a284dc59551') in 0.007260 seconds
+  Import took 0.009294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.298292 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Scenes
+  artifactKey: Guid(2100b8b8e69d7884e8c3a6f95dd09542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Scenes using Guid(2100b8b8e69d7884e8c3a6f95dd09542) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '840e7a12f1f7fc11115a0e5dc718b794') in 0.007016 seconds
+  Import took 0.009477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.227745 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Resources/Knight animation start.blend
+  artifactKey: Guid(e98c392108aa24c498587aeebbb590ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Resources/Knight animation start.blend using Guid(e98c392108aa24c498587aeebbb590ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac2e071a3fba0436184a1103e360473f') in 0.660747 seconds
+  Import took 0.666639 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Resources/New Knight animations.fbx
+  artifactKey: Guid(7dc5f6c2c85e19240845da52b9087b06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Resources/New Knight animations.fbx using Guid(7dc5f6c2c85e19240845da52b9087b06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67cffe9d146e433effed723016323ed4') in 0.180196 seconds
+  Import took 0.184027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Resources/New Knight animations. updated.fbx
+  artifactKey: Guid(a0fc399e3184ee24e89e6f08fabf9b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Resources/New Knight animations. updated.fbx using Guid(a0fc399e3184ee24e89e6f08fabf9b13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf02e668f738428bf4acb7734cb044aa') in 0.181870 seconds
+  Import took 0.186450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.240629 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Resources/KNIGHT Textures
+  artifactKey: Guid(4474326732407ec418e4ee2e7e5ec9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Resources/KNIGHT Textures using Guid(4474326732407ec418e4ee2e7e5ec9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ffd64341197d748f4d3a25cc11beb06') in 0.006792 seconds
+  Import took 0.009161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000640 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Resources/KNIGHT Textures
+  artifactKey: Guid(4474326732407ec418e4ee2e7e5ec9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Resources/KNIGHT Textures using Guid(4474326732407ec418e4ee2e7e5ec9d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ffd64341197d748f4d3a25cc11beb06') in 0.002465 seconds
+  Import took 0.004452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.039251 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Resources/KNIGHT Textures/Back Leg Armor .png
+  artifactKey: Guid(abd571120b4accd47b56eb70df5b3a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Resources/KNIGHT Textures/Back Leg Armor .png using Guid(abd571120b4accd47b56eb70df5b3a07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b4237eec5d40cf13d7777f06145e4ed') in 0.021552 seconds
+  Import took 0.023596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Resources/KNIGHT Textures/Hands and arm armor .png
+  artifactKey: Guid(94594d61b4cb54744abf119756cbe97f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Resources/KNIGHT Textures/Hands and arm armor .png using Guid(94594d61b4cb54744abf119756cbe97f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09549a49f7fb2ef78c40d472db3bb621') in 0.012304 seconds
+  Import took 0.014311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Resources/KNIGHT Textures/Sheild and sword.png
+  artifactKey: Guid(455d4f67e155ef040804b44d3dc26cc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Resources/KNIGHT Textures/Sheild and sword.png using Guid(455d4f67e155ef040804b44d3dc26cc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '132474b0bbe7b6091b64bfe0044d9c41') in 0.011800 seconds
+  Import took 0.013886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Resources/KNIGHT Textures/Dragon cloth .png
+  artifactKey: Guid(a8b4559230365dc4fbe77264acfd238b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Resources/KNIGHT Textures/Dragon cloth .png using Guid(a8b4559230365dc4fbe77264acfd238b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a26a805813c083f6e80965809b8c952') in 0.011245 seconds
+  Import took 0.013550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Resources/KNIGHT Textures/Lower Amor parts.png
+  artifactKey: Guid(18891989316db994bb32d067496ac803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Resources/KNIGHT Textures/Lower Amor parts.png using Guid(18891989316db994bb32d067496ac803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '051d93714c8c7e2f66bd383917462501') in 0.011654 seconds
+  Import took 0.013604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Resources/KNIGHT Textures/Top shoulder armor .png
+  artifactKey: Guid(92e7aa8ef577a9745915d2e3089bd39d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Resources/KNIGHT Textures/Top shoulder armor .png using Guid(92e7aa8ef577a9745915d2e3089bd39d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '148b0cfc50b35701526421c5b9f60e43') in 0.011819 seconds
+  Import took 0.013832 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Resources/KNIGHT Textures/Material.001 Base Color.png
+  artifactKey: Guid(ee71fc9b48cc4814884a274ddda6be23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Resources/KNIGHT Textures/Material.001 Base Color.png using Guid(ee71fc9b48cc4814884a274ddda6be23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a09871592c11d120649e5a9f16a7106c') in 0.012713 seconds
+  Import took 0.015313 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Resources/KNIGHT Textures/Legs .png
+  artifactKey: Guid(f1f4ad0c5824af64f9037ee0c1d47dea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Resources/KNIGHT Textures/Legs .png using Guid(f1f4ad0c5824af64f9037ee0c1d47dea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0862f5260685e9c3a9c49797b27c94e7') in 0.011596 seconds
+  Import took 0.013384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Resources/KNIGHT Textures/Shirt.png
+  artifactKey: Guid(d7e5d94c6dabedc43bcdcdb6e8ac41ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Resources/KNIGHT Textures/Shirt.png using Guid(d7e5d94c6dabedc43bcdcdb6e8ac41ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da604dccc2bcf829bd2cd6163f11f2f9') in 0.011653 seconds
+  Import took 0.013507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.700219 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/ProBuilder Data/Default Color Palette.asset
+  artifactKey: Guid(b6cc3fc38b45964428b691c9e4f1cdeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/ProBuilder Data/Default Color Palette.asset using Guid(b6cc3fc38b45964428b691c9e4f1cdeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a5b2ff52e2a9f137a89c0f895d3d9f6') in 0.009640 seconds
+  Import took 0.011693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.975762 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Mats/Back Leg Armor.mat
+  artifactKey: Guid(9b138f3ed0a41ed4aa8caea3c4ef579e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Mats/Back Leg Armor.mat using Guid(9b138f3ed0a41ed4aa8caea3c4ef579e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a6eb0056c9f98cc999d31a92768102a') in 0.042047 seconds
+  Import took 0.044114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Mats/Red.mat
+  artifactKey: Guid(5fe7f5e245dc23044a6ba993e2d488a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Mats/Red.mat using Guid(5fe7f5e245dc23044a6ba993e2d488a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ebcd63559c7354f9f20b9cfa0bd9869') in 0.012731 seconds
+  Import took 0.014557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Mats/Green.mat
+  artifactKey: Guid(5aa392b4917bb47478df27adb71f4ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Mats/Green.mat using Guid(5aa392b4917bb47478df27adb71f4ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7ede4ee13b45c73ee86cff2d853e27a') in 0.014852 seconds
+  Import took 0.017106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Mats/Gold.mat
+  artifactKey: Guid(2c8f7946e2871b0408d38ece3e56af0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Mats/Gold.mat using Guid(2c8f7946e2871b0408d38ece3e56af0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a46d3d8a0b9acfa81e37a3ad227a938b') in 0.011635 seconds
+  Import took 0.013754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Mats/Blue.mat
+  artifactKey: Guid(735ce8beb630549408c86278b85a5a35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Mats/Blue.mat using Guid(735ce8beb630549408c86278b85a5a35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '117b9c9e90cef81fb338e1e03e52146f') in 0.012282 seconds
+  Import took 0.014102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.674139 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Animations/Knight Attack Mask.mask
+  artifactKey: Guid(9bf3a77a6f7aff341a4b6a5869b4c700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Animations/Knight Attack Mask.mask using Guid(9bf3a77a6f7aff341a4b6a5869b4c700) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac2ededf25c66a43b8465f664db9d878') in 0.009633 seconds
+  Import took 0.011751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.789213 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Animations/Knight AC.controller
+  artifactKey: Guid(3ed6cf566dc58c145bcc8d67b3381c08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Animations/Knight AC.controller using Guid(3ed6cf566dc58c145bcc8d67b3381c08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01b765e45e66c6866a2fc4426c9e897a') in 0.016079 seconds
+  Import took 0.018937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.691578 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(363e7153d4ca889479e0b819fc72d2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Scenes/SampleScene.unity using Guid(363e7153d4ca889479e0b819fc72d2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b79c1edf543f08d9a1a59fbc9f1337e') in 0.007155 seconds
+  Import took 0.009683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000599 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(363e7153d4ca889479e0b819fc72d2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Scenes/SampleScene.unity using Guid(363e7153d4ca889479e0b819fc72d2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b79c1edf543f08d9a1a59fbc9f1337e') in 0.002724 seconds
+  Import took 0.004385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.476983 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Scenes/Thrid Knight.unity
+  artifactKey: Guid(4713713680d582f408afbafdb10e1057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Scenes/Thrid Knight.unity using Guid(4713713680d582f408afbafdb10e1057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b183e312265a2246d0aa7ca542932745') in 0.006885 seconds
+  Import took 0.009106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000725 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Scenes/Thrid Knight.unity
+  artifactKey: Guid(4713713680d582f408afbafdb10e1057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets/Scenes/Thrid Knight.unity using Guid(4713713680d582f408afbafdb10e1057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b183e312265a2246d0aa7ca542932745') in 0.002918 seconds
+  Import took 0.004861 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000822 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.803 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1132 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.9 MB.
+System memory in use after: 77.4 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1621.
+Total: 1.841000 ms (FindLiveObjects: 0.132500 ms CreateObjectMapping: 0.028500 ms MarkObjects: 1.368100 ms  DeleteObjects: 0.311300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.947986 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69821796822ebd096ca661ceef978d66') in 0.011153 seconds
+  Import took 0.013171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.089598 seconds.
+  path: Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets
+  artifactKey: Guid(8e4005eb832ba2640ada900aa0ec45b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NHTI_Frazier_Knight_3rdPCtrl-main (1)/NHTI_Frazier_Knight_3rdPCtrl-main/Assets using Guid(8e4005eb832ba2640ada900aa0ec45b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f4813c111f4e3ff732fb95c2eabde29') in 0.006959 seconds
+  Import took 0.008930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.734351 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3a7f2800dbce57163397f6f6833133d') in 0.002865 seconds
+  Import took 0.004863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 85.427131 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7198402c653629ce89e58c63477d781') in 0.002697 seconds
+  Import took 0.004989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7198402c653629ce89e58c63477d781') in 0.002612 seconds
+  Import took 0.004323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 73.124052 seconds.
+  path: Assets/Models/HellLanderMask.mask
+  artifactKey: Guid(d05769d1c1949c74a99f11012c237c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/HellLanderMask.mask using Guid(d05769d1c1949c74a99f11012c237c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7adc046f07f741fef7fc656fe91259b8') in 0.007355 seconds
+  Import took 0.009435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000993 seconds.
+  path: Assets/Models/HellLanderMask.mask
+  artifactKey: Guid(d05769d1c1949c74a99f11012c237c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/HellLanderMask.mask using Guid(d05769d1c1949c74a99f11012c237c23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7adc046f07f741fef7fc656fe91259b8') in 0.002887 seconds
+  Import took 0.004463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.382579 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f7ca06312de72b1a0f2762ab348e44b') in 0.002787 seconds
+  Import took 0.004935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 259.799815 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5cef3c7a0e874e449d6268f390bc32a') in 0.002753 seconds
+  Import took 0.004865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5cef3c7a0e874e449d6268f390bc32a') in 0.002555 seconds
+  Import took 0.004175 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000811 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.810 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1132 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 77.9 MB.
+System memory in use after: 77.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1624.
+Total: 2.107300 ms (FindLiveObjects: 0.155000 ms CreateObjectMapping: 0.056300 ms MarkObjects: 1.517800 ms  DeleteObjects: 0.377100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000821 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.822 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1132 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.0 MB.
+System memory in use after: 77.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1627.
+Total: 2.203700 ms (FindLiveObjects: 0.270200 ms CreateObjectMapping: 0.045000 ms MarkObjects: 1.527200 ms  DeleteObjects: 0.360400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000887 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.795 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1132 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.0 MB.
+System memory in use after: 77.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1630.
+Total: 2.289700 ms (FindLiveObjects: 0.315500 ms CreateObjectMapping: 0.047300 ms MarkObjects: 1.542300 ms  DeleteObjects: 0.383300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 106.575176 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3e88d1dcff94e2aa62ccc3cb141ee5c') in 0.015485 seconds
+  Import took 0.017587 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000842 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.813 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1132 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.0 MB.
+System memory in use after: 77.5 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1633.
+Total: 1.926200 ms (FindLiveObjects: 0.156500 ms CreateObjectMapping: 0.027900 ms MarkObjects: 1.381000 ms  DeleteObjects: 0.359800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000799 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.798 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1132 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.0 MB.
+System memory in use after: 77.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1636.
+Total: 2.147000 ms (FindLiveObjects: 0.201900 ms CreateObjectMapping: 0.030400 ms MarkObjects: 1.540900 ms  DeleteObjects: 0.372900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000835 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.808 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1132 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.0 MB.
+System memory in use after: 77.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1639.
+Total: 2.386700 ms (FindLiveObjects: 0.164000 ms CreateObjectMapping: 0.028100 ms MarkObjects: 1.733000 ms  DeleteObjects: 0.460200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000819 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.797 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1132 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.0 MB.
+System memory in use after: 77.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1642.
+Total: 2.102200 ms (FindLiveObjects: 0.190600 ms CreateObjectMapping: 0.028200 ms MarkObjects: 1.521700 ms  DeleteObjects: 0.360600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 325.342527 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6d56f96b2173c3816d01f5c16c8f543') in 0.011497 seconds
+  Import took 0.013597 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000810 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.824 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1132 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.0 MB.
+System memory in use after: 77.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1645.
+Total: 2.236800 ms (FindLiveObjects: 0.211200 ms CreateObjectMapping: 0.038300 ms MarkObjects: 1.620800 ms  DeleteObjects: 0.365200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000901 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.816 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1132 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.0 MB.
+System memory in use after: 77.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1648.
+Total: 1.980200 ms (FindLiveObjects: 0.175700 ms CreateObjectMapping: 0.030100 ms MarkObjects: 1.404900 ms  DeleteObjects: 0.368700 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000837 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.815 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.23 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1132 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.0 MB.
+System memory in use after: 77.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1651.
+Total: 2.081200 ms (FindLiveObjects: 0.183000 ms CreateObjectMapping: 0.030700 ms MarkObjects: 1.494600 ms  DeleteObjects: 0.371800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000895 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.826 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1132 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 78.0 MB.
+System memory in use after: 77.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 1654.
+Total: 2.380100 ms (FindLiveObjects: 0.251200 ms CreateObjectMapping: 0.031100 ms MarkObjects: 1.711600 ms  DeleteObjects: 0.384800 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

@@ -1,0 +1,10 @@
+10 -30 -- Walk
+45 - 136 -- Ideal
+160 - 180 -- sword attack 
+190 - 196 -- block 
+210 - 227 -- Death 
+239 - 263 -- Block 2 
+
+I want to add a few more animations to him tomorrow. Then I will start working on the skeleton warrior and the boss. If there are any animations that you think I should add please let me know. I think it would be nice to add a power attack as well. 
+
+
