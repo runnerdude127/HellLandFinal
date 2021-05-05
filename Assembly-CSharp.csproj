@@ -56,8 +56,9 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\NHTI_Frazier_Knight_3rdPCtrl-main (1)\NHTI_Frazier_Knight_3rdPCtrl-main\Assets\ThirdPersonMovement.cs" />
     <Compile Include="Assets\Scripts\MainMenu.cs" />
+    <Compile Include="Assets\NHTI_Frazier_Knight_3rdPCtrl-main (1)\NHTI_Frazier_Knight_3rdPCtrl-main\Assets\ThirdPersonMovement.cs" />
+    <Compile Include="Assets\Scripts\OptionsMenu.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\NHTI_Frazier_Knight_3rdPCtrl-main (1)\NHTI_Frazier_Knight_3rdPCtrl-main\Assets\TextMesh Pro\Shaders\TMPro.cginc" />
