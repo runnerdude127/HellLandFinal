@@ -33,6 +33,9 @@ ModelImporter:
   - first:
       74: 3371814169032876273
     second: Attack1
+  - first:
+      74: 3371814169032876273
+    second: HellLanderArmature|Shoot1
   externalObjects:
   - first:
       type: UnityEngine:Material
