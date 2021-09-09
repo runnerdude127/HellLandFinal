@@ -81,11 +81,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3096}
     - Class: 114
-      Script: {instanceID: 3412}
+      Script: {instanceID: 3370}
     - Class: 114
-      Script: {instanceID: 3548}
+      Script: {instanceID: 3414}
     - Class: 114
-      Script: {instanceID: 82046}
+      Script: {instanceID: 3550}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -168,9 +168,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 3096}
     - Class: 114
-      Script: {instanceID: 3412}
+      Script: {instanceID: 3414}
     - Class: 114
-      Script: {instanceID: 3548}
+      Script: {instanceID: 3550}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -558,6 +558,12 @@ ScriptsOnlyBuild:
     className: TestResultRendererCallback
   - hash:
       serializedVersion: 2
+      Hash: c8c5e65e9fb858572516474d6e2102bc
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: OptionsMenu
+  - hash:
+      serializedVersion: 2
       Hash: 748dd2a2a28da4e618912da5ac45684b
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
@@ -628,14 +634,8 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TextContainer
-  - hash:
-      serializedVersion: 2
-      Hash: c8c5e65e9fb858572516474d6e2102bc
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: OptionsMenu
   platform: 5
   scenePathNames:
   - Assets/Scenes/Title.unity
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/runne/Desktop/AGGP140_Character.exe
+  playerPath: C:/Users/runne/Desktop/School/digital/final/AGGP140_Character.exe
